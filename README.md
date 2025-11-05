@@ -6,3 +6,6 @@ The types of AI I want to explore in this project are:
 3) Behaviour Tree
 4) Utility AI
 5) GOAP
+
+---
+Finished experiments with Breadth-First Search, next Dijkstra and A*
