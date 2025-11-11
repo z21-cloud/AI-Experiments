@@ -8,4 +8,5 @@ The types of AI I want to explore in this project are:
 5) GOAP
 
 ---
-Finished experiments with Breadth-First Search, next Dijkstra and A*
+Finished experiments with Breadth-First Search, Dijkstra and A*
+Now I'm going to make simple Agent patrolling few nodes with A*
