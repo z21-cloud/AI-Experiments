@@ -1,12 +1,16 @@
-# AI-Experiments
-An educational project for experimenting with different types of game AI. 
-The types of AI I want to explore in this project are: 
-1) Waypoints / Node-based AI
-2) FSM (Finite State Machine)
-3) Behaviour Tree
-4) Utility AI
-5) GOAP
-
+# Pathfinding projects
+Проект для демонстрации работы с алгоритмами поиска пути:
+1) Node-based
+2) BFS
+3) Dijkstra
+4) A*
 ---
-Finished experiments with Breadth-First Search, Dijkstra and A*
-Now I'm going to make simple Agent patrolling few nodes with A*
+Если вы это читаете, значит я поленился подробно расписать что и как я реализовал. Позор мне =)
+1. Node-base
+*краткое описание +  скриншот*
+2. BFS
+*краткое описание +  скриншот*
+3. Dijkstra
+*краткое описание +  скриншот*
+4. A*
+*краткое описание +  скриншот*
