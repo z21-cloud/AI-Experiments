@@ -4,13 +4,7 @@
 2) BFS
 3) Dijkstra
 4) A*
----
-Если вы это читаете, значит я поленился подробно расписать что и как я реализовал. Позор мне =)
-1. Node-base
-*краткое описание +  скриншот*
-2. BFS
-*краткое описание +  скриншот*
-3. Dijkstra
-*краткое описание +  скриншот*
-4. A*
-*краткое описание +  скриншот*
+
+Алгоритм BFS - https://youtu.be/XzIb2RjROsc
+Steering Behaviour - https://youtu.be/C0BqUI5AxMI
+Dijkstra + StraightLine - https://youtu.be/JE8PdaUpiMY 
