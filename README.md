@@ -6,5 +6,7 @@
 4) A*
 
 Алгоритм BFS - https://youtu.be/XzIb2RjROsc
+
 Steering Behaviour - https://youtu.be/C0BqUI5AxMI
+
 Dijkstra + StraightLine - https://youtu.be/JE8PdaUpiMY 
